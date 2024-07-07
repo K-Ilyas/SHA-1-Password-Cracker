@@ -23,10 +23,10 @@ Here are some hashed passwords to test the function with when `use_salts` is set
 The `hashlib` library has been imported for you. You should consider using it in your code.[ Learn more about "hashlib" here](https://docs.python.org/3/library/hashlib.html).
 
 ### Development
-Write your code in password_cracker.py. For development, you can use main.py to test your code.
+Write your code in `password_cracker.py`. For development, you can use `main.py` to test your code.
 
 ### Testing
-The unit tests for this project are in test_module.py. We imported the tests from test_module.py to main.py for your convenience.
+The unit tests for this project are in `test_module.py`. We imported the tests from `test_module.py` to `main.py` for your convenience.
 
 ### Submitting
 Copy your project's URL and submit it to freeCodeCamp.
